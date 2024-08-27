@@ -1,0 +1,14 @@
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\bin\Debug\net8.0\CalculaDespesa.exe
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\bin\Debug\net8.0\CalculaDespesa.deps.json
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\bin\Debug\net8.0\CalculaDespesa.runtimeconfig.json
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\bin\Debug\net8.0\CalculaDespesa.dll
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\bin\Debug\net8.0\CalculaDespesa.pdb
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.AssemblyInfoInputs.cache
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.AssemblyInfo.cs
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.csproj.CoreCompileInputs.cache
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.dll
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\refint\CalculaDespesa.dll
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.pdb
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\CalculaDespesa.genruntimeconfig.cache
+C:\Users\Mitsuo Miyazato\Documents\Formulários de Teste\Ferramentas de Teste\CalculaDespesa\CalculaDespesa\obj\Debug\net8.0\ref\CalculaDespesa.dll
